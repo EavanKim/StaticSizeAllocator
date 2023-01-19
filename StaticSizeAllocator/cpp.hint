@@ -1,0 +1,2 @@
+#define STATICSIZEALLOCATOR_API __declspec(dllexport)
+#define STATICSIZEALLOCATOR_API __declspec(dllimport)
